@@ -16,6 +16,7 @@ public class Class {
      */
     public static void main(String[] args) {
         System.out.println("Linux v 0.2");
+        System.out.println("Suse 0.2");
     }
     
 }
