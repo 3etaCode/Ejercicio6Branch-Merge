@@ -16,6 +16,7 @@ public class Class {
      */
     public static void main(String[] args) {
         System.out.println("Linux v 0.1");
+        System.out.println("Mandriva 0.1");
     }
     
 }
