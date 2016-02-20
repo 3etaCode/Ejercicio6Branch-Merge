@@ -15,6 +15,10 @@ public class Class {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("Linux v 0.1");
+        System.out.println("Gnome 0.1");
+        System.out.println("Merge!!");
+        System.out.println("Drivers v 0.1");
         System.out.println("Linux v 0.2");
     }
     
